@@ -24,6 +24,13 @@ dependencies:
   flutter:
     sdk: flutter
 
+# add this line to your dependencies
+# fluttertoast: ^7.1.6
+
+# #Menambahkan Library Flutter Toast
+# flutter_toast:
+#   git:
+#     url: https://github.com/IhorKlimov/Flutter-Toast.git
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -32,6 +39,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
